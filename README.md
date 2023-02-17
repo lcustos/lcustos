@@ -1,5 +1,5 @@
 ### Hi there 👋
-### My name is Name and I am a computer developer. I code mainly in Python, C++, C#, SQL and Java.
+### My name is Lucas and I am a computer developer. I code mainly in Python, C++, C#, SQL and Java.
 
 On this profile you will find my projects and my contributions to open source projects. I strive to keep my projects up to date and properly document them.  
 
